@@ -1,4 +1,4 @@
-## Michael Bufkin
+# Michael Bufkin
 
 I build AI systems on hardware you can actually afford.
 
@@ -41,3 +41,4 @@ Everything I make runs local-first — no cloud dependencies, no API keys requir
 ### Get in touch
 
 Open an issue, start a discussion, or find me here. I read everything.
+
