@@ -32,7 +32,7 @@ Everything I make runs local-first — no cloud dependencies, no API keys requir
 
 | Machine | Specs | Used for |
 |---------|-------|----------|
-| Lenovo ThinkStation PGX | GB10, 119GB, Ollama | Model hosting, Trias benchmarks, Choros processing |
+| Lenovo ThinkStation PGX | GB10 (Grace-Blackwell), 119GB, llama.cpp | Model hosting, Trias benchmarks, Choros processing |
 | Raspberry Pi 5 | 8GB | Hermes agent, local automation |
 | MacBook Air M1 | 8GB | Development, iOS builds |
 
